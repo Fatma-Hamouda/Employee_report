@@ -48,7 +48,7 @@ You can replace the dataset with your own by uploading it to Power BI.
 To view or modify the report, follow these steps:
 
 1. **Install Power BI Desktop**: Download Power BI Desktop from [Microsoft's official website](https://powerbi.microsoft.com/desktop/).
-2. **Download Report**: Clone or download this repository and open the `employees_report.pbix` file in Power BI Desktop.
+2. **Download Report**: Clone or download this repository and open the `employee_report.pbix` file in Power BI Desktop.
 3. **Load Your Data**: Ensure your dataset is structured according to the description above, and update the data source in Power BI by navigating to the `Transform Data` section.
 
 ## Report Sections
